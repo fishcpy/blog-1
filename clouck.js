@@ -1,3 +1,4 @@
+        element.style.fontSize = '24px'; // 设置字体大小为24像素
         // 设置倒计时的目标日期
         var countDownDate = new Date("September 6, 2034 00:00:00").getTime();
 
